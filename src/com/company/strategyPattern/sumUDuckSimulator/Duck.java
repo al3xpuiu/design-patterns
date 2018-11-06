@@ -1,7 +1,7 @@
-package com.company.sumUDuckSimulator;
+package com.company.strategyPattern.sumUDuckSimulator;
 
-import com.company.sumUDuckSimulator.behaviorsProneToChange.FlyBehavior;
-import com.company.sumUDuckSimulator.behaviorsProneToChange.QuackBehavior;
+import com.company.strategyPattern.sumUDuckSimulator.behaviorsProneToChange.FlyBehavior;
+import com.company.strategyPattern.sumUDuckSimulator.behaviorsProneToChange.QuackBehavior;
 
 /**
  * Created by DD on 11/6/2018.

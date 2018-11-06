@@ -1,10 +1,10 @@
 package com.company;
 
-import com.company.sumUDuckSimulator.BrokenDuck;
-import com.company.sumUDuckSimulator.Duck;
-import com.company.sumUDuckSimulator.MallardDuck;
-import com.company.sumUDuckSimulator.RubberDuck;
-import com.company.sumUDuckSimulator.behaviorsProneToChange.FlyWithRocket;
+import com.company.strategyPattern.sumUDuckSimulator.BrokenDuck;
+import com.company.strategyPattern.sumUDuckSimulator.Duck;
+import com.company.strategyPattern.sumUDuckSimulator.MallardDuck;
+import com.company.strategyPattern.sumUDuckSimulator.RubberDuck;
+import com.company.strategyPattern.sumUDuckSimulator.behaviorsProneToChange.FlyWithRocket;
 
 public class Main {
 
